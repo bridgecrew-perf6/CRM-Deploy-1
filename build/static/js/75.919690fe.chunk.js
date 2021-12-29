@@ -1,0 +1,1 @@
+(this.webpackJsonpCRM=this.webpackJsonpCRM||[]).push([[75],{1122:function(t,e,n){"use strict";n.r(e);var a=n(0),c=n.n(a),u=n(22),o=Object(a.lazy)((function(){return n.e(31).then(n.bind(null,1274))}));e.default=function(){var t=Object(u.useRouteMatch)().path;return c.a.createElement(u.Switch,null,c.a.createElement(u.Route,{exact:!0,path:"".concat(t,"/base"),component:o}))}}}]);
